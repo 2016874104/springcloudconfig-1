@@ -1,0 +1,5 @@
+info:
+  profile: dev
+spring: 
+  application:
+    name: 123
